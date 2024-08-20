@@ -1,5 +1,5 @@
 # Setting title: null is necessary to get the default theme (https://github.com/pages-themes/primer)
 # to use the name property instead. The github-metadata plugin will set the repo name in site.title
 # automatically (see https://github.com/jekyll/github-metadata#what-it-does).
-name: To01z test
+name: "To01z test"
 title: null
