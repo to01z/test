@@ -1,1 +1,7 @@
+# Default theme is primer (see https://github.com/pages-themes/primer)
+
+# Title to display at the top of all pages
+# If you don't want a title, it is necessary to set it to null because the 
+# github-metadata plugin (see https://github.com/jekyll/github-metadata#what-it-does)
+# set it to the repo name by default.
 title: "To01z test"
